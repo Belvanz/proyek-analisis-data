@@ -1,21 +1,26 @@
 # Proyek Analisis Data: Bike Sharing Dataset
 ---
 
-## Struktur Folder
-```
-analisis-bike-sharing-dataset/
-├── dashboard/
-│   ├── main_data.csv          # Dataset yang sudah diproses
-│   └── dashboard.py           # Script untuk menjalankan dashboard Streamlit
-├── data/
-│   └── hour.csv               # Dataset utama (raw data)
-├── notebook.ipynb             # Notebook untuk analisis data
-├── README.md                  # Panduan proyek
-├── requirements.txt           # Daftar library yang digunakan
-└── url.txt                    # Tautan dashboard jika di-deploy (opsional)
-```
+## Cara menjalankan dashboard
 
----
+1. **Clone Repository**: Clone this repository
+   ```bash
+   git clone https://github.com/Belvanz/proyek-analisis-data
+   ```
+
+2. **Pergi ke cloned repository**
+   ```bash
+   cd proyek-analisis-data
+   ```
+3. **Menginstall dependency yang diperlukan**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Jalankan Dashboard**
+   ```bash
+   streamlit run dashboard.py
+   ```
 
 ### Tools dan Library
 Proyek ini menggunakan tools dan library berikut:
