@@ -24,8 +24,3 @@ Proyek ini menggunakan tools dan library berikut:
 - **Streamlit**: Untuk membuat dashboard interaktif.
 
 ---
-
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE). Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode ini sesuai kebutuhan.
-
----
