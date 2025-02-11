@@ -31,9 +31,9 @@ Proyek ini menggunakan tools dan library berikut:
 ---
 ## Cara menginstall library 
 
-1. **Numpy**
+1. **Streamlit**
    ```bash
-   pip install numpy
+   pip install streamlit
    ```
 
 2. **Pandas**
