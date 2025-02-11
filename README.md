@@ -29,3 +29,23 @@ Proyek ini menggunakan tools dan library berikut:
 - **Streamlit**: Untuk membuat dashboard interaktif.
 
 ---
+## Cara menginstall library 
+
+1. **Numpy**
+   ```bash
+   pip install numpy
+   ```
+
+2. **Pandas**
+   ```bash
+   pip install pandas
+   ```
+3. **Matplotlib**
+   ```bash
+   pip install matplotlib
+   ```
+
+4. **Seaborn**
+   ```bash
+   pip install seaborn
+   ```
