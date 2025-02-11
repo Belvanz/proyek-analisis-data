@@ -49,7 +49,7 @@ filtered_day_df = day_df[
 
 # Dashboard: Tampilan Metrik Utama
 st.title("🚲 Bike Sharing Dashboard")
-st.markdown("📍 **Analisis pola penyewaan sepeda berdasarkan dataset bike sharing.**")
+st.markdown("📍 Analisis pola penyewaan sepeda berdasarkan dataset bike sharing.")
 
 col1, col2, col3, col4 = st.columns(4)
 
